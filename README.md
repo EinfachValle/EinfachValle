@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on NeatBeat. 🎵
+- 🔭 I’m currently working on MajorCloud. 🎵
 - 🌱 I’m currently learning more about Fullstack Web development.
 - 💬 Ask me about any tech-related stuff.
 - ⚡ Fun fact: Coding can “Power Up” your brain.
