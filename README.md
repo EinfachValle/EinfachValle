@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/EinfachValle/EinfachValle/main/name.svg" alt="EinfachVall - Valentin Roehle" /
 </h1>
 
-
 # 👋 About Me:
 
 - 🔭 I’m currently working on BeatSmith. 🎵
