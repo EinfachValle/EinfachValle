@@ -1,6 +1,11 @@
-# 💫 About Me:
+<h1>
+  <img src="https://raw.githubusercontent.com/EinfachValle/EinfachValle/main/name.svg" alt="EinfachVall - Valentin Roehle" /
+</h1>
 
-- 🔭 I’m currently working on MajorCloud. 🎵
+
+# 👋 About Me:
+
+- 🔭 I’m currently working on BeatSmith. 🎵
 - 🌱 I’m currently learning more about Fullstack Web development.
 - 💬 Ask me about any tech-related stuff.
 - ⚡ Fun fact: Coding can “Power Up” your brain.
