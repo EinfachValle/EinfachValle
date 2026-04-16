@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/EinfachValle/EinfachValle/main/name.svg" alt="EinfachValle - Valentin Roehle" />
 </h1>
 
-## 👋 Hi, ich bin Valentin
+## 👋 Hi, I'm EinfachValle
 
-Fullstack Developer mit einem starken Gespür für Design und kompromisslosem Fokus auf technische Qualität. Ich arbeite am Schnittpunkt von Design und Entwicklung — komponenten-getrieben, performant, zugänglich.
+A full-stack developer with a keen eye for design and an unwavering focus on technical quality. I work at the intersection of design and development—component-driven, high-performance, and accessible.
 
-Offen für Freelance-Projekte und Kooperationen — mehr unter [portfolio-einfachvalle.vercel.app](https://portfolio-einfachvalle.vercel.app/).
+Open to freelance projects and collaborations—learn more at [portfolio-einfachvalle.vercel.app](https://portfolio-einfachvalle.vercel.app/).
 
 ## 🛠️ Tech Stack
 
@@ -54,10 +54,6 @@ Offen für Freelance-Projekte und Kooperationen — mehr unter [portfolio-einfac
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/EinfachValle/EinfachValle/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=einfachvalle&theme=onedark&no-bg=true&margin-w=20&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
