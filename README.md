@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/EinfachValle/EinfachValle/main/name.svg" alt="EinfachValle - Valentin Roehle" />
+  <img src="https://raw.githubusercontent.com/EinfachValle/EinfachValle/main/svg/name.svg" alt="EinfachValle - Valentin Roehle" />
 </h1>
 
 ## 👋 Hi, I'm EinfachValle

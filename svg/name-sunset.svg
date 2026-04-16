@@ -1,0 +1,55 @@
+<svg viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="base" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6b35" />
+      <stop offset="50%" stop-color="#f7931e" />
+      <stop offset="100%" stop-color="#ffd23f" />
+    </linearGradient>
+
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff6b35" />
+      <stop offset="35%" stop-color="#f7931e" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="65%" stop-color="#ffd23f" />
+      <stop offset="100%" stop-color="#ff6b35" />
+      <animateTransform
+        attributeName="gradientTransform"
+        type="translate"
+        from="-800 0"
+        to="800 0"
+        dur="3.5s"
+        repeatCount="indefinite"
+      />
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text
+    x="400" y="80"
+    text-anchor="middle"
+    font-family="'Inter', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif"
+    font-size="72"
+    font-weight="900"
+    letter-spacing="-3"
+    fill="url(#base)"
+    filter="url(#glow)"
+  >EinfachValle</text>
+
+  <text
+    x="400" y="80"
+    text-anchor="middle"
+    font-family="'Inter', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif"
+    font-size="72"
+    font-weight="900"
+    letter-spacing="-3"
+    fill="url(#shimmer)"
+    opacity="0.6"
+  >EinfachValle</text>
+</svg>
