@@ -6,7 +6,7 @@
 
 A full-stack developer with a keen eye for design and an unwavering focus on technical quality. I work at the intersection of design and development—component-driven, high-performance, and accessible.
 
-Open to freelance projects and collaborations—learn more at [portfolio-einfachvalle.vercel.app](https://portfolio-einfachvalle.vercel.app/).
+Open to freelance projects and collaborations—learn more at [Portfolio](https://einfachvalle.de).
 
 ## 🛠️ Tech Stack
 
